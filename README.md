@@ -1,3 +1,3 @@
 ﻿### About Me
-- Software Engineer Intern @ 7Span
+- Software Engineer @ 7Span
 - Bachelor of Engineering @ SAL College of Engineering
