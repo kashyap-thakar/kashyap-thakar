@@ -1,3 +1,3 @@
 ﻿### About Me
+- Founder & Lead Engineer @ 11Vertex
 - Software Engineer @ 7Span
-- Bachelor of Engineering @ SAL College of Engineering
