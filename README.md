@@ -1,3 +1,3 @@
 ﻿### About Me
 - Founder & Lead Engineer @ 11Vertex
-- Software Engineer @ 7Span
+- Senior Software Engineer @ 7Span
