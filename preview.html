@@ -1,3 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>GitHub Profile Preview</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown-dark.min.css">
+  <style>
+    body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 45px;
+      background-color: #0d1117;
+    }
+    .markdown-body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+    }
+    @media (max-width: 767px) {
+      body {
+        padding: 15px;
+      }
+    }
+  </style>
+</head>
+<body class="markdown-body">
+  <div id="content">Loading...</div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const markdownContent = `
 <h1 align="center">Hi there, I'm Kashyap Thakar 👋</h1>
 <h3 align="center">Full-stack & Product Engineering</h3>
 
@@ -6,7 +39,6 @@
 </p>
 
 ### 👨‍💻 About Me
-
 - 🚀 **Founder** @<a href="https://11vertex.com" target="_blank">11Vertex</a>
 - 💻 **Senior Software Engineer** @<a href="https://7span.com" target="_blank">7Span</a>
 - 🌍 Delivered **15+ production systems** for **100,000+ users**
@@ -50,3 +82,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kashyap-thakar&color=8B5CF6&style=flat-square&labelColor=0D1117" alt="Profile views" />
 </p>
+`;
+    document.getElementById('content').innerHTML = marked.parse(markdownContent);
+  </script>
+</body>
+</html>
