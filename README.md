@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kashyap Thakar 👋</h1>
+﻿<h1 align="center">Hi there, I'm Kashyap Thakar 👋</h1>
 <h3 align="center">Full-stack & Product Engineering</h3>
 
 <p align="center">
@@ -24,7 +24,26 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nextjs,react,vue,tailwind,postgres,mysql,mongodb,supabase,docker,aws,vercel,github,discord&perline=8" alt="Tech icons" />
+  <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=nodedotjs&logoColor=5FA04E&labelColor=ffffff&color=ffffff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat&logo=typescript&logoColor=3178C6&labelColor=ffffff&color=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=ffffff&color=ffffff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=000000&labelColor=ffffff&color=ffffff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-ffffff?style=flat&logo=react&logoColor=61DAFB&labelColor=ffffff&color=ffffff" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-ffffff?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=ffffff&color=ffffff" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-ffffff?style=flat&logo=tailwindcss&logoColor=06B6D4&labelColor=ffffff&color=ffffff" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-ffffff?style=flat&logo=greensock&logoColor=88CE02&labelColor=ffffff&color=ffffff" alt="GSAP" />
+  <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=flat&logo=postgresql&logoColor=4169E1&labelColor=ffffff&color=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat&logo=mysql&logoColor=4479A1&labelColor=ffffff&color=ffffff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat&logo=mongodb&logoColor=47A248&labelColor=ffffff&color=ffffff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-ffffff?style=flat&logo=mongoose&logoColor=880000&labelColor=ffffff&color=ffffff" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Supabase-ffffff?style=flat&logo=supabase&logoColor=3ECF8E&labelColor=ffffff&color=ffffff" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-ffffff?style=flat&logo=docker&logoColor=2496ED&labelColor=ffffff&color=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-ffffff?style=flat&logo=amazonwebservices&logoColor=232F3E&labelColor=ffffff&color=ffffff" alt="AWS" />
+  <img src="https://img.shields.io/badge/Stripe-ffffff?style=flat&logo=stripe&logoColor=008CDD&labelColor=ffffff&color=ffffff" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Twilio-ffffff?style=flat&logo=twilio&logoColor=F22F46&labelColor=ffffff&color=ffffff" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Vercel-ffffff?style=flat&logo=vercel&logoColor=000000&labelColor=ffffff&color=ffffff" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=181717&labelColor=ffffff&color=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Discord-ffffff?style=flat&logo=discord&logoColor=5865F2&labelColor=ffffff&color=ffffff" alt="Discord" />
 </p>
 
 ---
